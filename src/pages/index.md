@@ -89,7 +89,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit
+      value: EasyQuest
       keyName: property
     - name: 'og:description'
       value: The preview of the EasyQuest
