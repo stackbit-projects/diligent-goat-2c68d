@@ -103,7 +103,7 @@ seo:
     - name: 'twitter:title'
       value: The the EasyQuest
     - name: 'twitter:description'
-      value: The preview of the Starter theme
+      value: The preview of the EasyQuest
     - name: 'twitter:image'
       value: images/starter-preview.png
       relativeUrl: true
