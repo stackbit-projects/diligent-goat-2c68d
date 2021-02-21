@@ -10,9 +10,9 @@ tags:
 image: images/3.png
 image_alt: Post 3 placeholder image
 excerpt: >-
-  Quis est, qui non oderit libidinosam, protervam adolescentiam? Innumerabilia
-  dici possunt in hanc sententiam, sed non necesse est. Putabam equidem satis,
-  inquit, me dixisse.
+  Кто он, кто не ненавидит безудержный разврат, вон ту распутную юность? Об этом
+  решении можно сказать бесчисленное множество, но это не обязательно. Вот, я
+  действительно подумал, что для вас достаточно, сказал он, того, что я сказал.
 seo:
   title: Cur Ipse Pythagoras Et Aegyptum Lustravit
   description: 'Quis est, qui non oderit libidinosam, protervam adolescentiam'
