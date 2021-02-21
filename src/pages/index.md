@@ -83,7 +83,7 @@ sections:
     background_color: gray
 seo:
   title: Stackbit
-  description: The preview of the Starter theme
+  description: Превью
   extra:
     - name: 'og:type'
       value: website
