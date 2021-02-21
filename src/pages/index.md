@@ -82,7 +82,7 @@ sections:
     has_background: true
     background_color: gray
 seo:
-  title: Стартовая тема Stackbit
+  title: Stackbit
   description: The preview of the Starter theme
   extra:
     - name: 'og:type'
