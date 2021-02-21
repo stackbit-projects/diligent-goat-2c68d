@@ -82,7 +82,7 @@ sections:
     has_background: true
     background_color: gray
 seo:
-  title: Stackbit
+  title: EasyQuest
   description: Превью
   extra:
     - name: 'og:type'
