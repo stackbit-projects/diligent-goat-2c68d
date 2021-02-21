@@ -92,7 +92,7 @@ seo:
       value: Stackbit
       keyName: property
     - name: 'og:description'
-      value: The preview of the Starter theme
+      value: The preview of the EasyQuest
       keyName: property
     - name: 'og:image'
       value: images/starter-preview.png
