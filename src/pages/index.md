@@ -83,7 +83,7 @@ sections:
     background_color: gray
 seo:
   title: EasyQuest
-  description: Превью
+  description: The preview of the EasyQuest
   extra:
     - name: 'og:type'
       value: website
